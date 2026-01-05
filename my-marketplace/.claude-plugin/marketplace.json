@@ -1,0 +1,13 @@
+{
+  "name": "my-plugins-market",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "sample-plugin",
+      "source": "./plugins/sample-plugin",
+      "description": "sample plugin components"
+    }
+  ]
+}
